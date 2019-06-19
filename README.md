@@ -1,6 +1,6 @@
 # Udacity Robotics Nanodegree
 # Project #1: Build My World
-![Build My World Demo](demo.png)
+![Build My World Demo](demo.jpg)
 
 ## Introduction
 This project involves designing and building a Gazebo world for future projects.
